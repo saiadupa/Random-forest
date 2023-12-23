@@ -1,6 +1,7 @@
 # Overview
 This project demonstrates the implementation of a Random Forest model for image classification using the Fashion MNIST dataset. The dataset consists of 4 classes, each containing a set of 10 images for training, and a final 5th class used for testing the model.
 
+# [Fashion-MNIST Dataset](https://github.com/zalandoresearch/fashion-mnist)
 # Requirements
 - Python 3.x
 - pandas
